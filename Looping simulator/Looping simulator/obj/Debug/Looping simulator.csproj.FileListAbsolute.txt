@@ -1,0 +1,9 @@
+c:\users\rene\documents\visual studio 2017\Projects\Looping simulator\Looping simulator\bin\Debug\Looping simulator.exe.config
+c:\users\rene\documents\visual studio 2017\Projects\Looping simulator\Looping simulator\bin\Debug\Looping simulator.exe
+c:\users\rene\documents\visual studio 2017\Projects\Looping simulator\Looping simulator\bin\Debug\Looping simulator.pdb
+c:\users\rene\documents\visual studio 2017\Projects\Looping simulator\Looping simulator\obj\Debug\Looping simulator.csprojResolveAssemblyReference.cache
+c:\users\rene\documents\visual studio 2017\Projects\Looping simulator\Looping simulator\obj\Debug\Looping_simulator.Form1.resources
+c:\users\rene\documents\visual studio 2017\Projects\Looping simulator\Looping simulator\obj\Debug\Looping_simulator.Properties.Resources.resources
+c:\users\rene\documents\visual studio 2017\Projects\Looping simulator\Looping simulator\obj\Debug\Looping simulator.csproj.GenerateResource.Cache
+c:\users\rene\documents\visual studio 2017\Projects\Looping simulator\Looping simulator\obj\Debug\Looping simulator.exe
+c:\users\rene\documents\visual studio 2017\Projects\Looping simulator\Looping simulator\obj\Debug\Looping simulator.pdb
